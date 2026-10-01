@@ -1,4 +1,4 @@
-# Privacy-Wiper
+# Privacy-Wipe
 A tool that overrides a file/folder before deleting it so the data inside the files cannot be traced by anyone
 
 #How does it work?:                                                                                                                          
@@ -14,3 +14,6 @@ Idk, for privacy may be?
 2.Double Click the .bat file                                                                                                                             
 3.Choose the file or folder                                                                                                                              
 4.DELETE
+
+                                                                                                                                                       
+@fantasy.2026.shubham.pandit
